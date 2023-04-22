@@ -1,0 +1,3 @@
+[submodule "deps/lsockengine"]
+	path = deps/lsockengine
+	url = https://github.com/BerryHeyy/lsockengine.git
